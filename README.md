@@ -1,6 +1,13 @@
-# e-commerce
+# E-Commerce Web Application
 
-asd
-adas
-d
-asdsa
+
+
+Angular CLI: 7.3.7
+Node: 10.15.3
+OS: win32 x64
+PHP Version: +5.5
+SQL: Mysql
+
+
+
+
